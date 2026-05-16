@@ -66,22 +66,3 @@ through automation. There is a future scope of this facility that many more feat
     8	Processor: Intel Core Processor Or More
 
 
-### 7) Group Members 🤼.
-<br>
-
-1) [Muhammad Zubair](https://github.com/HydraPhyzer)
-2) [Muhammad Huzzifa](https://github.com/Huzzifa787)
-3) [Hafiz Abdul Rehman](https://github.com/Abdul9272)
-4) [Muhammad Qasim](https://github.com/Qasim643)
-
-<hr>
-
-### 8) Shotout to Contributors 🏹.
-
-<a href="
-https://github.com/HydraPhyzer/Library-Management-System-In-C-and-SQL/graphs/contributors">
-
-  <img src="https://contrib.rocks/image?repo=hydraphyzer/Library-Management-System-In-C-and-SQL" />
-</a>
-
-<hr>
